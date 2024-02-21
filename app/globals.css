@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.overflow-y {
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
